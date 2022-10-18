@@ -18,5 +18,5 @@ This project is given starter code for Horiseon webpage design. The main challen
 * Removed all unneeded class attributes.
 * Added alt attributes to all images.
 * Identified style selectors and consolidated repetitive styles.
-* Added overflow:auto in main section to make sure the words not overfolowed to the next section when the webpage size changed.
+* Added overflow:auto in main section to make sure the words not overflowed to the next section when the webpage size is changed.
 * Updated the height in main section to be auto to make the three sections to fit the resized webpage.
